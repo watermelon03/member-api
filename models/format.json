@@ -1,0 +1,19 @@
+{
+    "adminRegister": {
+        "adminname": "Admin2",
+        "password": "2222",
+        "roleid": 1,
+        "firstname": "Namo",
+        "lastname": "Oishi",
+        "sex": "Male",
+        "birthday": "1995-02-14",
+        "tel": "0808520258",
+        "email": "Namo@gmail.com"
+    },
+    "adminLogin": {
+        "username": "Admin2",
+        "password": "2222"
+    }
+}
+
+
